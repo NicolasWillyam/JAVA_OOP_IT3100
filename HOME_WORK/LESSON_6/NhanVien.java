@@ -1,4 +1,4 @@
-package OOP;
+package JAVA_OOP_IT3100.HOME_WORK.LESSON_6;
 
 public class NhanVien {
     private String tenNhanVien;
